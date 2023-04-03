@@ -1,2 +1,3 @@
 # PathJuggler
-Path Juggler for shape reordering in Glyphs
+
+Path Juggler plug-in for Glyphs.app
